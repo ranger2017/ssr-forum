@@ -32,7 +32,7 @@
           data = {},
           body = render(data)
       
-      $doc.trigger('spa:initpage', [$page, {title: 'Spring', body: body}])
+      $doc.trigger('spa:initpage', [$page, {title: 'BILLTS SSR 论坛', body: body}])
     },
     init: function(pageData) {
       var $view = this,
