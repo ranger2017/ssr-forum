@@ -26,7 +26,7 @@
     route: '',
     classname: 'home',
     animate: 'fadeIn',
-    title: 'Spring',
+    title: 'BILLTS SSR 论坛',
     view: function(pageData) {
       var $page = this,
           data = {},
