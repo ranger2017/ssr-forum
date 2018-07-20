@@ -1,33 +1,22 @@
 {
-  "name": "spring",
-  "title": "Spring",
+  "name": "forum",
+  "title": "BILLTS SSR 论坛",
   "version": "0.1.0",
-  "description": "Spring is a blog engine written by github issues",
+  "description": "为 BILLTS SSR 用户打造的论坛",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhaoda/spring"
+    "url": "https://forum.billts.net"
   },
   "keywords": [
-    "spring",
-    "blog",
-    "spa",
-    "webapp",
-    "javascript",
-    "less"
+    "ssr",
+    "billts"
   ],
   "author": {
-    "name": "zhaoda",
-    "email": "zd6437@gmail.com",
-    "url": "http://zhaoda.net"
+    "name": "coder-bts",
+    "email": "admin@billts.net",
+    "url": "https://billts.site"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://raw.github.com/zhaoda/spring/master/LICENSE"
-  },
-  "bugs": {
-    "url": "https://github.com/zhaoda/spring/issues"
-  },
-  "homepage": "http://zhaoda.net/spring",
+  "homepage": "https://forum.billts.net/",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-clean": "~0.5.0",
